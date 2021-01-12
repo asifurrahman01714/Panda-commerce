@@ -1,0 +1,33 @@
+.panda-carousel{
+    background-color: #FCEAE8;
+}
+.panda-carousel h3{
+    color:  #FF438E;
+}
+.my-btn{
+    background-color: #FF438E;
+    color: white;
+}
+.categories img{
+    width: 150px;
+    margin-right: 5px;
+}
+.categories {
+    border-radius: 10px;
+}
+.categories:nth-child(1){
+    background-color: #FFA500;
+}
+
+.categories:nth-child(2){
+    background-color: #DA70D6;
+}
+
+.categories:nth-child(3){
+    background-color: #0000FF;
+}
+.subscribe{
+    background-color: #FCEAE8;
+    height: 300px;
+}
+
